@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attivita">
+
+        <item>Accelera</item>
+        <item>DialogActivity</item>
+        <item>MainActivity</item>
+        <item>MyWebSite</item>
+        <item>SensorActivity</item>
+        <item>SplashScreen</item>
+        <item>Contatti</item>
+
+
+    </string-array>
+</resources>
